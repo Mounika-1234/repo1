@@ -1,4 +1,5 @@
 def factorial(number):
+    print("to find")
     print("To find factorial of a number")
     if number < 0:
         print('Invalid entry! Cannot find factorial of a negative number')
